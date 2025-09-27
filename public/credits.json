@@ -1,0 +1,63 @@
+[
+  {
+    "unic_id": "UNIC-VCS-IND-2023-4F7A8C1B",
+    "project_name": "Mangrove Restoration Project",
+    "vintage": 2023,
+    "status": "Active"
+  },
+  {
+    "unic_id": "UNIC-GS-IND-2022-8A1B2C3D",
+    "project_name": "Solar Power Plant Maharashtra",
+    "vintage": 2022,
+    "status": "Retired"
+  },
+  {
+    "unic_id": "UNIC-VCS-IND-2021-9D4E7F8G",
+    "project_name": "Wind Farm Rajasthan",
+    "vintage": 2021,
+    "status": "Active"
+  },
+  {
+    "unic_id": "UNIC-ACR-IND-2020-1A2B3C4D",
+    "project_name": "Biogas Energy Punjab",
+    "vintage": 2020,
+    "status": "Active"
+  },
+  {
+    "unic_id": "UNIC-GS-IND-2019-6B7C8D9E",
+    "project_name": "Hydro Dam Uttarakhand",
+    "vintage": 2019,
+    "status": "Retired"
+  },
+  {
+    "unic_id": "UNIC-VCS-IND-2023-7C8D9E0F",
+    "project_name": "Solar Rooftops Delhi",
+    "vintage": 2023,
+    "status": "Active"
+  },
+  {
+    "unic_id": "UNIC-VCS-IND-2021-8E9F0A1B",
+    "project_name": "Agroforestry Karnataka",
+    "vintage": 2021,
+    "status": "Active"
+  },
+  {
+    "unic_id": "UNIC-GS-IND-2022-9F0A1B2C",
+    "project_name": "Cookstove Distribution Bihar",
+    "vintage": 2022,
+    "status": "Retired"
+  },
+  {
+    "unic_id": "UNIC-ACR-IND-2020-0B1C2D3E",
+    "project_name": "Reforestation Assam",
+    "vintage": 2020,
+    "status": "Active"
+  },
+  {
+    "unic_id": "UNIC-VCS-IND-2018-1C2D3E4F",
+    "project_name": "Waste-to-Energy Gujarat",
+    "vintage": 2018,
+    "status": "Retired"
+  }
+]
+
