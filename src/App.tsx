@@ -40,7 +40,7 @@ function App() {
   useEffect(() => {
     const load = async () => {
       try {
-        const res = await fetch('/credits.json')
+        const res = await fetch(`${import.meta.env.BASE_URL}credits.json`)
         if (!res.ok) throw new Error('Failed to load credits.json')
         const data: Credit[] = await res.json()
         setCredits(data)
